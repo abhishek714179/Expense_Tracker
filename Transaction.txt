@@ -1,0 +1,5 @@
+Income,2025-05-01,Salary,5000,May salary
+Expense,2025-05-03,Food,200,Groceries
+Expense,2025-05-05,Rent,1200,Monthly rent
+Income,2025-05-10,Business,1500,Freelance project
+Expense,2025-05-15,Travel,300,Bus ticket
